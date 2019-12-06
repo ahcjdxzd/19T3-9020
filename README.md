@@ -1,6 +1,6 @@
 # 19T3-9020
 As an accounting student and an auditor for last 8 years, attend UNSW to learn IT is a huge challenge for me.
-COMP9020 foundation of CS is a very necessary course for me to build up some basic concept which I never learned before  like big-O and graph theory. I can use those knowledge in other two courses COMP9021 Principles of programming and COMP9311 Database System.
+COMP9020 foundation of CS is a very necessary course for me to build up some basic concepts which I never learned before  like big-O and graph theory. I can use those knowledge in other two courses COMP9021 Principles of programming and COMP9311 Database System.
 
 I still remember the feeling when I attend this class at first time . I listen the lecture carefully for whole two hourse and try to understand every detail of the PPT. But I failed. I relisten the recording of the lecture at home and suddenly I realise the lecturer was talk about the gcd and lcm which I already learned that in primary school!!! I just don’t familiar with the English mathematical expression!!!! I feel like I'm illiterate!!!!
 In a word, as a transdiciplinary student, inorde to easily understand COMP9021 and COMP 9311, I think enrol the COMP9020 is a way to go.
